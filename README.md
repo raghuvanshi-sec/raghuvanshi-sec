@@ -41,7 +41,7 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=raghuvanshi-sec&theme=cobalt&radius=10" alt="raghuvanshi-sec's Activity Graph" />
 </p>
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+  <img src="raghuvanshi-sec-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
 
