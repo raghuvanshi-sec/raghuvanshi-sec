@@ -9,25 +9,26 @@
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
+
 - I’m currently working on Web Dev projects.
 - 🌱 I’m presently learning Web Development and Artificial Intelligence & Machine Learning.
 - 👯 I’m looking to collaborate on Web Development Projects and in Photography.
 - 🤔 I’m looking for help with understanding the tech and AI.
-- 📫 satyamraghuvanshi220ct@gmail.com
-- 😄.https://modern-portfolio-satyam-raghuvanshis-projects.vercel.app
+- 📫 <satyamraghuvanshi220ct@gmail.com>
+- 😄.<https://modern-portfolio-satyam-raghuvanshis-projects.vercel.app>
 - He/Him⚡
 - I love to play sports, sometimes write poetry, and I am a photographer
 - I am currently working on MERN Full-Stack Development projects. I am a 3rd-year B.Tech student at Jai Narain College of Technology.
 - I designed a project on Phishguard, a phishing hunter tool. Additionally, I am a photographer, cinematographer, and cybersecurity enthusiast.
 
-
 ## 🧠 My Focus Areas
+
 - Web Development
 - AIML
 - Cybersecurity
 
-
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
   <a href="https://github.com/raghuvanshi-sec">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raghuvanshi-sec&cache_seconds=7200&layout=compact&theme=cobalt&border_radius=10" alt="raghuvanshi-sec's GitHub Stats" />
@@ -41,9 +42,8 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=raghuvanshi-sec&theme=cobalt&radius=10" alt="raghuvanshi-sec's Activity Graph" />
 </p>
 <div align="center">
-  <img src="raguvanshi-sec-3d-city.svg" alt="3D City" width="100%" />
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
-
 
 ## 🛠️ Languages & Tools
 
@@ -103,6 +103,7 @@
 <br/>
 
 ## 🔗 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/satyam-0x/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
@@ -125,4 +126,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
-
