@@ -45,9 +45,6 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=raghuvanshi-sec&theme=nightowl&radius=10" alt="raghuvanshi-sec's Activity Graph" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
 
 ## 🛠️ Languages & Tools
 
